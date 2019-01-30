@@ -63,7 +63,7 @@ https://github.com/flutter/flutter/wiki/Add-Flutter-to-existing-apps
 ---
 
 # サンプルコード
-* https://github.com/flutter/flutter/wiki/Add-Flutter-to-existing-apps
+* https://github.com/takecian/flutter-study-used-as-library
 
 ---
 # 終わり
