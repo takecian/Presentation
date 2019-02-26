@@ -82,9 +82,9 @@ https://github.com/twostraws/whats-new-in-swift-5-0
 
 # 参考
 
-https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_beta_3_release_notes
-https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_beta_3_release_notes/swift_5_release_notes_for_xcode_10_2_beta_3
+- https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_beta_3_release_notes
+- https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_beta_3_release_notes/swift_5_release_notes_for_xcode_10_2_beta_3
 
 
-https://www.hackingwithswift.com/articles/126/whats-new-in-swift-5-0
-
+- https://www.hackingwithswift.com/articles/126/whats-new-in-swift-5-0
+- https://github.com/twostraws/whats-new-in-swift-5-0
