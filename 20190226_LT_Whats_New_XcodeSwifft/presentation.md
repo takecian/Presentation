@@ -17,9 +17,9 @@ Xcode Beta 10.2 をインストールしてください
 ---
 
 # General
-Xcode が macOS content caching サポートした
+- Xcode が macOS content caching サポートした
 
-よくわからない
+- よくわからない
 https://support.apple.com/ja-jp/guide/mac-help/about-content-caching-on-mac-mchl9388ba1b/mac
 
 ---
@@ -34,7 +34,8 @@ https://support.apple.com/ja-jp/guide/mac-help/about-content-caching-on-mac-mchl
 
 Computed property の畳み込みができるようになった
 
-Edit -> Code Folding -> Fold Methoods & Functions
+- Edit -> Code Folding -> Fold Methoods & Functions
+- Command + Option + Shift + ←(→)
 
 ---
 # Testing
