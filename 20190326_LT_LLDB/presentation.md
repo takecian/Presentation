@@ -10,7 +10,7 @@
 
 ---
 
-# Custome command
+# Custom command
 
 - 自分でコマンドを作ることができる
 
