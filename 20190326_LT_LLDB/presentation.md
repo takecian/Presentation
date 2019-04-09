@@ -85,7 +85,7 @@ https://github.com/facebook/chisel
 # 色々便利なコマンドがあった
 
 hide/show
-mask/unmask
+visualize
 
 ---
 
